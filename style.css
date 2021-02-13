@@ -49,6 +49,27 @@ font-size: 1.1em;
 @media (max-width:576px)
 {
     body{
-        padding: 20px;
+        padding: 10px;
+    }
+    .head-header .head-content p{
+        font-size: 0.9em;
+    }
+    .head-header{
+        height: 100vh;
+    }
+    .n-body-title-content{
+        font-size: 0.9em;
+    }
+    .card-number{
+        font-size: 1em;
+    }
+    .card-head{
+        font-size: 1.3em;
+    }
+    .card-content{
+        font-size: 1em;
+    }
+    .a-card-number{
+        font-size: 1em;
     }
 }
