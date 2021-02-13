@@ -68,8 +68,17 @@ font-size: 1.1em;
     }
     .card-content{
         font-size: 1em;
+        height: 42vh;
+        overflow: hidden;
+        overflow-y: scroll;
     }
     .a-card-number{
         font-size: 1em;
+    }
+    #stream-quality{
+        height: 20vh;
+    }
+    #personal-reco{
+        height: 30vh;
     }
 }
